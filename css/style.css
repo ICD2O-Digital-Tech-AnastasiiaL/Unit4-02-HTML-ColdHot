@@ -1,4 +1,55 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+h1 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+
+    background-color: hsl(0, 0%, 55%);
+}
+
+div {
+    display: flex;
+    align-items: center;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+}
+
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+p {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+label {
+    align-items: center;
+}
+
+h6 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    justify-items: baseline;
+}
